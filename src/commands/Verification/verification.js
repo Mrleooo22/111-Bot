@@ -95,7 +95,7 @@ async function handleSetup(interaction, guild, client) {
             "Click **Verify** to continue.",
         color: "#ff00ff"
     })
-        .setThumbnail("https://YOUR-LOGO-URL.png")
+        .setThumbnail("file:///C:/Users/Mrleo/Downloads/1111leaks_banner.png")
         .setImage("https://YOUR-BANNER-URL.png")
         .setFooter({
             text: "111 Leaks • Secure Verification"
